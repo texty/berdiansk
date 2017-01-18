@@ -92,6 +92,11 @@ hr {
   padding: 10px;
 }
 
+a:link {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
 /*media queries*/
 
 @media (max-width:544px) {
